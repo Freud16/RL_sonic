@@ -1,0 +1,6 @@
+wheel
+gym-retro
+opencv-python
+tensorflow-gpu
+scipy
+numpy
